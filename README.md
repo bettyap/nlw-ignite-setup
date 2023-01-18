@@ -1,2 +1,2 @@
 # nlw-ignite-setup
-Projeto desenvolvido durante o evento NLW Setup da rocketseat
+Projeto em construção junto com evento NLW Setup da rocketseat
